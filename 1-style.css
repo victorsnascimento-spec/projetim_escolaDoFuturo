@@ -1,0 +1,27 @@
+.card {
+  border: 2px solid #059669;
+  background-color: #daffe5;
+  width: 650px;
+  border-radius: 15px;
+  margin: 0px auto;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+
+#fim{
+  background-color: #059669;
+  padding: 10px;
+  height: 70px;
+}
+
+#imgLogo{
+  width: 30%;
+}
+
+.cardI {
+  margin-bottom: 40px;
+}
+
+#pFinal{
+    margin-bottom: 10px;
+}
